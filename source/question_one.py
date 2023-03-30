@@ -5,7 +5,7 @@ from typing import Tuple
 
 # TODO: Answer all of the questions inside of question_one.py
 
-# TOOD: Answer each question and then save and commit and push your work
+# TOOD: Answer each sub-question and then save and commit and push your work
 #       so that you can confirm through GitHub Actions whether your answer is correct or not
 
 # TODO: Please bear in mind that you are responsible for fixing any

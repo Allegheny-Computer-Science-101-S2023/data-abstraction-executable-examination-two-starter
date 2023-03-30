@@ -3,7 +3,7 @@
 from typing import List
 from typing import Tuple
 
-# TODO: Answer all of the questions inside of question_one.py
+# TODO: Answer all of the sub-questions inside of question_one.py
 
 # TOOD: Answer each sub-question and then save and commit and push your work
 #       so that you can confirm through GitHub Actions whether your answer is correct or not

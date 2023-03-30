@@ -7,7 +7,7 @@ from typing import Callable
 # TOOD: Answer each question and then save and commit and push your work
 #       so that you can confirm through GitHub Actions whether your answer is correct or not
 
-# TODO: Please bear in mind that if you are responsible for fixing any
+# TODO: Please bear in mind that you are responsible for fixing any
 #       defects that you introduce into these functions that cause
 #       the overall program to crash and/or produce unexpected output
 

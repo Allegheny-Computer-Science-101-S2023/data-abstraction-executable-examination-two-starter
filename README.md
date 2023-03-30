@@ -34,7 +34,7 @@ while completing the examination.
 - **Examination Due**: 4:30 PM on Thursday, March 30, 2023
 
 **Please note that your access to the GitHub repository containing the
-executable examination will be disabled after the due date.**
+executable examination may be disabled after the due date.**
 
 ## Honor Code
 

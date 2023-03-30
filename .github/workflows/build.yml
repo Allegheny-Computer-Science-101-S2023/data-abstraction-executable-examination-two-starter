@@ -14,6 +14,8 @@ on:
 # This job performs all necessary checks
 jobs:
   build:
+    # do not allow a build to run for more than 10 minutes
+    timeout-minutes: 10
     # Use the latest version of Ubuntu
     runs-on: ${{ matrix.os }}
     strategy:

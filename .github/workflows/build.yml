@@ -51,6 +51,7 @@ jobs:
             python source/question_five.py
         # Run GatorGrader: uses the decrypted version of config/gatorgrade.yml
         - name: Run GatorGrader with GatorGrade
+          if: always()
           env:
             GATORGRADE_GPG_PASSPHRASE: ${{ secrets.GATORGRADE_GPG_PASSPHRASE }}
           run:  |
